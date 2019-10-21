@@ -57,13 +57,13 @@ export function Vip(props) {
     </div>
 }
 
-使用这么来
-     <Vip
-    vip={item.from_level_name}
-     is_admin={item.from_is_room_admin}
-     >
-     {children}
-     </Vip>
+## 使用这么来
+       <Vip
+      vip={item.from_level_name}
+       is_admin={item.from_is_room_admin}
+       >
+       {children}
+       </Vip>
      
      
   ### lodash 
