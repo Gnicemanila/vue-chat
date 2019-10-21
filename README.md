@@ -66,6 +66,10 @@ export function Vip(props) {
      </Vip>
      
      
+  ### lodash 
+      很多实用的封装好的函数
+      https://lodash.com/
+     
      
      
      
